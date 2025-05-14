@@ -1,2 +1,2 @@
 ﻿# zigbang_copy
-# front-end 작업 (No Javascript, only css)
+# front-end 작업 (No Javascript, only CSS)
